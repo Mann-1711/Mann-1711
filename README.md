@@ -210,16 +210,22 @@ I'm building the foundations that will allow me to actually understand the syste
 ---
 
 # 🛠️ Current Tech Stack
+Languages
 
-### Learning / Using
+🐍 Python
+💻 C
 
+Tools
 
-
-\
+🔧 Git
+🐙 GitHub
+💻 VS Code
 
 ### Coming Next
-
-\
+🧩 Object-Oriented Programming (Python)
+🗄️ SQL
+🍃 MongoDB
+🧠 Data Structures & Algorithms
 
 ---
 
